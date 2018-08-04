@@ -4,6 +4,8 @@ int a=10;  
 int b=10;  
 int c=a+b;
 int z ;
-int k;
+//int k;
+int a=22;
+int b=33;
 System.out.println(c);  
 }}  
